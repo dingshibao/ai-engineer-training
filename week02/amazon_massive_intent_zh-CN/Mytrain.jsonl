@@ -1,0 +1,100 @@
+{"messages": [{"role": "system", "content": "你是一个语音控制机器人"}, {"role": "user", "content": "星期五早上九点叫醒我"}, {"role": "assistant", "content": "已为你设置星期五上午九点的闹钟，到时候会准时提醒你。"}]}
+{"messages": [{"role": "system", "content": "你是一个语音控制机器人"}, {"role": "user", "content": "设个两小时后的闹钟"}, {"role": "assistant", "content": "已设置两小时后的闹钟，时间到会提醒你。"}]}
+{"messages": [{"role": "system", "content": "你是一个语音控制机器人"}, {"role": "user", "content": "olly 安静"}, {"role": "assistant", "content": "已将音量静音，环境更安静了。"}]}
+{"messages": [{"role": "system", "content": "你是一个语音控制机器人"}, {"role": "user", "content": "停止"}, {"role": "assistant", "content": "已将音量静音，暂停当前音频播放。"}]}
+{"messages": [{"role": "system", "content": "你是一个语音控制机器人"}, {"role": "user", "content": "欧丽暂停十秒"}, {"role": "assistant", "content": "已暂停音频播放十秒。"}]}
+{"messages": [{"role": "system", "content": "你是一个语音控制机器人"}, {"role": "user", "content": "暂停十秒钟"}, {"role": "assistant", "content": "已暂停音频十秒。"}]}
+{"messages": [{"role": "system", "content": "你是一个语音控制机器人"}, {"role": "user", "content": "让这里的灯光更加温暖一点"}, {"role": "assistant", "content": "正在调节灯光色温，让光线更温暖舒适。"}]}
+{"messages": [{"role": "system", "content": "你是一个语音控制机器人"}, {"role": "user", "content": "请设置适合阅读的灯光"}, {"role": "assistant", "content": "已调整灯光为适合阅读的模式，保护你的眼睛。"}]}
+{"messages": [{"role": "system", "content": "你是一个语音控制机器人"}, {"role": "user", "content": "是时候睡觉了"}, {"role": "assistant", "content": "已关闭灯光，祝你有个好梦。"}]}
+{"messages": [{"role": "system", "content": "你是一个语音控制机器人"}, {"role": "user", "content": "是时候睡觉了 olly"}, {"role": "assistant", "content": "已关闭灯光，olly祝你晚安。"}]}
+{"messages": [{"role": "system", "content": "你是一个语音控制机器人"}, {"role": "user", "content": "关掉浴室的灯"}, {"role": "assistant", "content": "浴室的灯已关闭。"}]}
+{"messages": [{"role": "system", "content": "你是一个语音控制机器人"}, {"role": "user", "content": "olly 把大客厅里的灯调暗"}, {"role": "assistant", "content": "正在将大客厅的灯光调暗。"}]}
+{"messages": [{"role": "system", "content": "你是一个语音控制机器人"}, {"role": "user", "content": "关掉卧室的灯"}, {"role": "assistant", "content": "卧室的灯已关闭。"}]}
+{"messages": [{"role": "system", "content": "你是一个语音控制机器人"}, {"role": "user", "content": "设置灯为百分之二十"}, {"role": "assistant", "content": "已将灯光亮度调整为20%。"}]}
+{"messages": [{"role": "system", "content": "你是一个语音控制机器人"}, {"role": "user", "content": "olly 把灯光调到两成"}, {"role": "assistant", "content": "灯光已调至20%亮度。"}]}
+{"messages": [{"role": "system", "content": "你是一个语音控制机器人"}, {"role": "user", "content": "小度变暗厨房灯光"}, {"role": "assistant", "content": "正在调暗厨房灯光。"}]}
+{"messages": [{"role": "system", "content": "你是一个语音控制机器人"}, {"role": "user", "content": "调暗厨房灯"}, {"role": "assistant", "content": "厨房灯光已调暗。"}]}
+{"messages": [{"role": "system", "content": "你是一个语音控制机器人"}, {"role": "user", "content": "olly 扫公厕"}, {"role": "assistant", "content": "启动清扫机器人，开始清洁公共区域。"}]}
+{"messages": [{"role": "system", "content": "你是一个语音控制机器人"}, {"role": "user", "content": "给房子吸尘"}, {"role": "assistant", "content": "已启动吸尘器，开始为全屋清洁。"}]}
+{"messages": [{"role": "system", "content": "你是一个语音控制机器人"}, {"role": "user", "content": "小度把房子用吸尘器吸干净"}, {"role": "assistant", "content": "正在使用吸尘器清洁房间，保持环境整洁。"}]}
+{"messages": [{"role": "system", "content": "你是一个语音控制机器人"}, {"role": "user", "content": "地呗"}, {"role": "assistant", "content": "启动地面清洁程序，开始打扫。"}]}
+{"messages": [{"role": "system", "content": "你是一个语音控制机器人"}, {"role": "user", "content": "看一下演出什么时候开始"}, {"role": "assistant", "content": "正在查询演出开始时间，请稍等。"}]}
+{"messages": [{"role": "system", "content": "你是一个语音控制机器人"}, {"role": "user", "content": "我想再听一次周杰伦的歌"}, {"role": "assistant", "content": "正在为你播放周杰伦的歌曲。"}]}
+{"messages": [{"role": "system", "content": "你是一个语音控制机器人"}, {"role": "user", "content": "我想再次播放那首音乐"}, {"role": "assistant", "content": "正在重新播放你刚才喜欢的音乐。"}]}
+{"messages": [{"role": "system", "content": "你是一个语音控制机器人"}, {"role": "user", "content": "确认一下我的车准备好了吗"}, {"role": "assistant", "content": "这是一个有趣的问题，但我目前无法查看你的车辆状态。"}]}
+{"messages": [{"role": "system", "content": "你是一个语音控制机器人"}, {"role": "user", "content": "检查我的笔记本在工作吗"}, {"role": "assistant", "content": "我无法直接检查你的笔记本电脑，建议你手动确认。"}]}
+{"messages": [{"role": "system", "content": "你是一个语音控制机器人"}, {"role": "user", "content": "我的屏幕的亮度降低了么"}, {"role": "assistant", "content": "屏幕亮度可能已自动调节，你可以手动查看设置。"}]}
+{"messages": [{"role": "system", "content": "你是一个语音控制机器人"}, {"role": "user", "content": "我需要打开定位服务你能查一下吗"}, {"role": "assistant", "content": "我可以帮你打开定位服务，请在设备上确认授权。"}]}
+{"messages": [{"role": "system", "content": "你是一个语音控制机器人"}, {"role": "user", "content": "检查我的电量使用状态"}, {"role": "assistant", "content": "正在检查电量使用情况，请查看设备电池设置。"}]}
+{"messages": [{"role": "system", "content": "你是一个语音控制机器人"}, {"role": "user", "content": "我不累我真的很开心"}, {"role": "assistant", "content": "太好了！保持好心情，需要什么我可以帮忙。"}]}
+{"messages": [{"role": "system", "content": "你是一个语音控制机器人"}, {"role": "user", "content": "小度我不累我真的很开心"}, {"role": "assistant", "content": "真棒！小度也为你感到开心，继续加油！"}]}
+{"messages": [{"role": "system", "content": "你是一个语音控制机器人"}, {"role": "user", "content": "最近怎样"}, {"role": "assistant", "content": "我很好，谢谢！你今天过得怎么样？"}]}
+{"messages": [{"role": "system", "content": "你是一个语音控制机器人"}, {"role": "user", "content": "告诉我莫斯科时间"}, {"role": "assistant", "content": "正在查询莫斯科当前时间，请稍等……"}]}
+{"messages": [{"role": "system", "content": "你是一个语音控制机器人"}, {"role": "user", "content": "告诉我格林威治时间加五是几点"}, {"role": "assistant", "content": "格林威治时间加五小时是 UTC+5，对应中亚等地区的时间。"}]}
+{"messages": [{"role": "system", "content": "你是一个语音控制机器人"}, {"role": "user", "content": "欧丽列出所有评分高的中式外卖"}, {"role": "assistant", "content": "正在为你查找评分高的中式外卖选项。"}]}
+{"messages": [{"role": "system", "content": "你是一个语音控制机器人"}, {"role": "user", "content": "评分最高的中餐外卖"}, {"role": "assistant", "content": "正在为你推荐评分最高的中餐外卖商家。"}]}
+{"messages": [{"role": "system", "content": "你是一个语音控制机器人"}, {"role": "user", "content": "olly 评分最高的中餐外卖"}, {"role": "assistant", "content": "正在查找评分最高的中餐外卖，马上为你呈现。"}]}
+{"messages": [{"role": "system", "content": "你是一个语音控制机器人"}, {"role": "user", "content": "我想吃一些咖啡有什么推荐吗"}, {"role": "assistant", "content": "正在为你查找附近提供咖啡的外卖推荐。"}]}
+{"messages": [{"role": "system", "content": "你是一个语音控制机器人"}, {"role": "user", "content": "天猫精灵如果有任何推荐的话我想吃点咖啡"}, {"role": "assistant", "content": "已为你搜索推荐的咖啡饮品，准备下单吗？"}]}
+{"messages": [{"role": "system", "content": "你是一个语音控制机器人"}, {"role": "user", "content": "在三源里菜市场附近找我的泰国外卖"}, {"role": "assistant", "content": "正在查找三源里菜市场附近的泰式外卖餐厅。"}]}
+{"messages": [{"role": "system", "content": "你是一个语音控制机器人"}, {"role": "user", "content": "停止七点的闹钟"}, {"role": "assistant", "content": "已取消早上七点的闹钟。"}]}
+{"messages": [{"role": "system", "content": "你是一个语音控制机器人"}, {"role": "user", "content": "列出有效闹钟"}, {"role": "assistant", "content": "正在为你列出所有已设置的闹钟。"}]}
+{"messages": [{"role": "system", "content": "你是一个语音控制机器人"}, {"role": "user", "content": "今天有什么关于足球的消息吗"}, {"role": "assistant", "content": "正在为你查询最新的足球新闻。"}]}
+{"messages": [{"role": "system", "content": "你是一个语音控制机器人"}, {"role": "user", "content": "请播放飞轮海的只对你有感觉"}, {"role": "assistant", "content": "正在为你播放飞轮海的《只对你有感觉》。"}]}
+{"messages": [{"role": "system", "content": "你是一个语音控制机器人"}, {"role": "user", "content": "我喜欢摇滚音乐"}, {"role": "assistant", "content": "已记录你喜欢摇滚音乐，将为你推荐相关歌曲。"}]}
+{"messages": [{"role": "system", "content": "你是一个语音控制机器人"}, {"role": "user", "content": "告五人我的最爱乐队"}, {"role": "assistant", "content": "已记录告五人是你最喜欢的乐队之一。"}]}
+{"messages": [{"role": "system", "content": "你是一个语音控制机器人"}, {"role": "user", "content": "开始播放收藏夹中的音乐"}, {"role": "assistant", "content": "正在播放你收藏夹中的音乐。"}]}
+{"messages": [{"role": "system", "content": "你是一个语音控制机器人"}, {"role": "user", "content": "请播放我最好的音乐"}, {"role": "assistant", "content": "正在为你播放你最喜爱的音乐。"}]}
+{"messages": [{"role": "system", "content": "你是一个语音控制机器人"}, {"role": "user", "content": "谁是当前音乐的作者"}, {"role": "assistant", "content": "正在查询当前播放音乐的创作者信息。"}]}
+{"messages": [{"role": "system", "content": "你是一个语音控制机器人"}, {"role": "user", "content": "这张专辑的流行音乐来自哪里"}, {"role": "assistant", "content": "正在查询这张专辑的音乐来源地。"}]}
+{"messages": [{"role": "system", "content": "你是一个语音控制机器人"}, {"role": "user", "content": "olly 我喜欢这首歌"}, {"role": "assistant", "content": "已记录你喜欢这首歌，会为你推荐相似风格。"}]}
+{"messages": [{"role": "system", "content": "你是一个语音控制机器人"}, {"role": "user", "content": "你正播放的歌曲太棒了"}, {"role": "assistant", "content": "谢谢夸奖！这首歌确实很棒，继续享受吧。"}]}
+{"messages": [{"role": "system", "content": "你是一个语音控制机器人"}, {"role": "user", "content": "这是最适合我的歌曲之一"}, {"role": "assistant", "content": "太好了！已将这首歌标记为你的偏好。"}]}
+{"messages": [{"role": "system", "content": "你是一个语音控制机器人"}, {"role": "user", "content": "让灯更亮"}, {"role": "assistant", "content": "正在调高灯光亮度。"}]}
+{"messages": [{"role": "system", "content": "你是一个语音控制机器人"}, {"role": "user", "content": "请调亮灯到最大"}, {"role": "assistant", "content": "灯光已调至最亮模式。"}]}
+{"messages": [{"role": "system", "content": "你是一个语音控制机器人"}, {"role": "user", "content": "启动扫地机器人"}, {"role": "assistant", "content": "已启动扫地机器人，开始清洁地面。"}]}
+{"messages": [{"role": "system", "content": "你是一个语音控制机器人"}, {"role": "user", "content": "启动扫地机器人"}, {"role": "assistant", "content": "扫地机器人已启动，正在清扫。"}]}
+{"messages": [{"role": "system", "content": "你是一个语音控制机器人"}, {"role": "user", "content": "请为晚餐订一些寿司"}, {"role": "assistant", "content": "正在为你订购晚餐寿司，请确认订单。"}]}
+{"messages": [{"role": "system", "content": "你是一个语音控制机器人"}, {"role": "user", "content": "我想你下单汉堡包"}, {"role": "assistant", "content": "已为你下单汉堡包外卖，预计很快送达。"}]}
+{"messages": [{"role": "system", "content": "你是一个语音控制机器人"}, {"role": "user", "content": "我能从萨莉亚意式餐厅点外卖当晚饭吗"}, {"role": "assistant", "content": "可以，正在为你从萨莉亚意式餐厅下单外卖。"}]}
+{"messages": [{"role": "system", "content": "你是一个语音控制机器人"}, {"role": "user", "content": "拜伦有外卖吗"}, {"role": "assistant", "content": "正在查询拜伦餐厅是否提供外卖服务。"}]}
+{"messages": [{"role": "system", "content": "你是一个语音控制机器人"}, {"role": "user", "content": "定个十二点的闹钟"}, {"role": "assistant", "content": "已设置中午12点的闹钟。"}]}
+{"messages": [{"role": "system", "content": "你是一个语音控制机器人"}, {"role": "user", "content": "设置一个四十分钟后的闹钟"}, {"role": "assistant", "content": "已设置40分钟后闹钟，时间到会提醒你。"}]}
+{"messages": [{"role": "system", "content": "你是一个语音控制机器人"}, {"role": "user", "content": "设个每个工作日八点的闹钟"}, {"role": "assistant", "content": "已设置工作日每天早上八点的闹钟。"}]}
+{"messages": [{"role": "system", "content": "你是一个语音控制机器人"}, {"role": "user", "content": "下雨了吗"}, {"role": "assistant", "content": "正在查询当前是否下雨，请稍等。"}]}
+{"messages": [{"role": "system", "content": "你是一个语音控制机器人"}, {"role": "user", "content": "要下雨了吗吧"}, {"role": "assistant", "content": "正在查看天气预报，确认是否即将下雨。"}]}
+{"messages": [{"role": "system", "content": "你是一个语音控制机器人"}, {"role": "user", "content": "正在下雪吗"}, {"role": "assistant", "content": "正在查询是否正在下雪，请稍等。"}]}
+{"messages": [{"role": "system", "content": "你是一个语音控制机器人"}, {"role": "user", "content": "这周的天气如何"}, {"role": "assistant", "content": "正在为你查询本周天气预报。"}]}
+{"messages": [{"role": "system", "content": "你是一个语音控制机器人"}, {"role": "user", "content": "告诉我环球时报的新闻"}, {"role": "assistant", "content": "正在为你播报环球时报的最新新闻。"}]}
+{"messages": [{"role": "system", "content": "你是一个语音控制机器人"}, {"role": "user", "content": "中国新闻网有什么新闻"}, {"role": "assistant", "content": "正在为你获取中国新闻网的最新资讯。"}]}
+{"messages": [{"role": "system", "content": "你是一个语音控制机器人"}, {"role": "user", "content": "呼市新闻的最新新闻是什么"}, {"role": "assistant", "content": "正在查询呼和浩特市的最新本地新闻。"}]}
+{"messages": [{"role": "system", "content": "你是一个语音控制机器人"}, {"role": "user", "content": "播放一首我喜欢的歌曲"}, {"role": "assistant", "content": "正在为你播放你喜欢的歌曲。"}]}
+{"messages": [{"role": "system", "content": "你是一个语音控制机器人"}, {"role": "user", "content": "播放五月天"}, {"role": "assistant", "content": "正在为你播放五月天的音乐。"}]}
+{"messages": [{"role": "system", "content": "你是一个语音控制机器人"}, {"role": "user", "content": "放一些五月天的音乐"}, {"role": "assistant", "content": "已开始播放五月天的歌曲。"}]}
+{"messages": [{"role": "system", "content": "你是一个语音控制机器人"}, {"role": "user", "content": "随机播放此播放列表"}, {"role": "assistant", "content": "已开启随机播放模式。"}]}
+{"messages": [{"role": "system", "content": "你是一个语音控制机器人"}, {"role": "user", "content": "正在播放什么"}, {"role": "assistant", "content": "正在为你查询当前播放的音乐信息。"}]}
+{"messages": [{"role": "system", "content": "你是一个语音控制机器人"}, {"role": "user", "content": "这是什么音乐"}, {"role": "assistant", "content": "正在识别当前播放的音乐名称。"}]}
+{"messages": [{"role": "system", "content": "你是一个语音控制机器人"}, {"role": "user", "content": "告诉我谁是这首歌的歌手"}, {"role": "assistant", "content": "正在查询这首歌的演唱者。"}]}
+{"messages": [{"role": "system", "content": "你是一个语音控制机器人"}, {"role": "user", "content": "让我笑"}, {"role": "assistant", "content": "来个笑话让你开心一下吧！"}]}
+{"messages": [{"role": "system", "content": "你是一个语音控制机器人"}, {"role": "user", "content": "olly 让我笑"}, {"role": "assistant", "content": "准备讲个笑话，保证让你笑出声！"}]}
+{"messages": [{"role": "system", "content": "你是一个语音控制机器人"}, {"role": "user", "content": "给我讲一个有趣的笑话"}, {"role": "assistant", "content": "当然！来听一个有趣的笑话吧。"}]}
+{"messages": [{"role": "system", "content": "你是一个语音控制机器人"}, {"role": "user", "content": "给我讲个笑话"}, {"role": "assistant", "content": "好的，来个轻松的笑话！"}]}
+{"messages": [{"role": "system", "content": "你是一个语音控制机器人"}, {"role": "user", "content": "alexa 给我讲个笑话"}, {"role": "assistant", "content": "虽然我是语音机器人，但我也能讲个好笑话！"}]}
+{"messages": [{"role": "system", "content": "你是一个语音控制机器人"}, {"role": "user", "content": "鼓励一下我"}, {"role": "assistant", "content": "你做得很好！继续坚持，你一定行的！"}]}
+{"messages": [{"role": "system", "content": "你是一个语音控制机器人"}, {"role": "user", "content": "告诉我今天的情况"}, {"role": "assistant", "content": "今天一切正常，天气良好，适合出行。"}]}
+{"messages": [{"role": "system", "content": "你是一个语音控制机器人"}, {"role": "user", "content": "下单比萨"}, {"role": "assistant", "content": "正在为你下单比萨，请确认口味和地址。"}]}
+{"messages": [{"role": "system", "content": "你是一个语音控制机器人"}, {"role": "user", "content": "从美团外卖点比萨"}, {"role": "assistant", "content": "已从美团外卖为你下单比萨，等待送达。"}]}
+{"messages": [{"role": "system", "content": "你是一个语音控制机器人"}, {"role": "user", "content": "我的订单什么时候到"}, {"role": "assistant", "content": "正在查询你的外卖订单预计送达时间。"}]}
+{"messages": [{"role": "system", "content": "你是一个语音控制机器人"}, {"role": "user", "content": "我的外卖还有多久"}, {"role": "assistant", "content": "正在查看外卖配送进度，马上告诉你剩余时间。"}]}
+{"messages": [{"role": "system", "content": "你是一个语音控制机器人"}, {"role": "user", "content": "多米诺的运输情况"}, {"role": "assistant", "content": "正在查询多米诺外卖的配送状态。"}]}
+{"messages": [{"role": "system", "content": "你是一个语音控制机器人"}, {"role": "user", "content": "正在播放什么"}, {"role": "assistant", "content": "正在为你查询当前播放的音乐。"}]}
+{"messages": [{"role": "system", "content": "你是一个语音控制机器人"}, {"role": "user", "content": "告诉我歌名"}, {"role": "assistant", "content": "正在获取当前播放歌曲的名称。"}]}
+{"messages": [{"role": "system", "content": "你是一个语音控制机器人"}, {"role": "user", "content": "播放我的爵士乐播放列表"}, {"role": "assistant", "content": "正在为你播放爵士乐播放列表。"}]}
+{"messages": [{"role": "system", "content": "你是一个语音控制机器人"}, {"role": "user", "content": "开始我的爵士乐播放列表"}, {"role": "assistant", "content": "已开始播放你的爵士乐歌单。"}]}
+{"messages": [{"role": "system", "content": "你是一个语音控制机器人"}, {"role": "user", "content": "播放我的最爱播放列表"}, {"role": "assistant", "content": "正在为你播放你最喜欢的播放列表。"}]}
+{"messages": [{"role": "system", "content": "你是一个语音控制机器人"}, {"role": "user", "content": "那是一首好歌"}, {"role": "assistant", "content": "是的，这首歌很棒，已记录你的喜好。"}]}
+{"messages": [{"role": "system", "content": "你是一个语音控制机器人"}, {"role": "user", "content": "我不喜欢这个"}, {"role": "assistant", "content": "已记录你不喜欢这首歌，以后减少推荐类似风格。"}]}
+{"messages": [{"role": "system", "content": "你是一个语音控制机器人"}, {"role": "user", "content": "我喜欢它"}, {"role": "assistant", "content": "太好了！已将这首歌加入你的喜欢列表。"}]}
+{"messages": [{"role": "system", "content": "你是一个语音控制机器人"}, {"role": "user", "content": "我喜欢爵士乐"}, {"role": "assistant", "content": "已记录你喜欢爵士乐，将为你推荐更多类似音乐。"}]}
+{"messages": [{"role": "system", "content": "你是一个语音控制机器人"}, {"role": "user", "content": "你能播放一些爵士乐吗"}, {"role": "assistant", "content": "当然可以，正在为你播放爵士乐。"}]}

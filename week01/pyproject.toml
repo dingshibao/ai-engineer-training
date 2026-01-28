@@ -1,0 +1,22 @@
+[project]
+name = "ai-engineering-week01"
+version = "0.1.0"
+description = "AI工程化训练营第一周项目"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "openai<=1.99.1",
+    "python-dotenv>=1.1.1",
+    "langchain>=0.3.27",
+    "langchain-community>=0.3.27",
+    "langchain-core>=0.3.72",
+    "langchain-openai>=0.3.28",
+    "langsmith>=0.4.10",
+    "langgraph>=0.0.40",
+    "llama-index>=0.10.0",
+    "llama-index-embeddings-dashscope>=0.1.0",
+    "llama-index-llms-openai-like>=0.1.0",
+    "faiss-cpu>=1.7.4",
+    "regex<2025.7.34",
+    "autogen-agentchat",
+]

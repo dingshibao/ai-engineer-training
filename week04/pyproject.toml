@@ -1,0 +1,41 @@
+[project]
+name = "week04"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "langchain",
+    "langchain-core",
+    "langchain-community",
+    "langchain-deepseek",
+    "pydantic",
+    "requests",
+    "aiohttp",
+    "langserve[all]",
+    "langsmith",
+    "langgraph",
+    "python-dotenv",
+    "fastapi",
+    "uvicorn",
+    "dashscope",
+    "httpx",
+    "ipykernel>=6.30.1",
+    "jupyter",
+    "langchain-openai",
+    "chromadb",
+    "mem0ai",
+    "qdrant-client",
+    "sqlalchemy",
+    "duckduckgo-search",
+    "ddgs",
+    "openai",
+    "langchain-nomic",
+    "nomic[local]",
+]
+
+[project.optional-dependencies]
+vllm = ["vllm"]
+
+[tool.setuptools]
+packages = ["p11", "p12"]

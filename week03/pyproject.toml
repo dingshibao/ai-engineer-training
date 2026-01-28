@@ -1,0 +1,25 @@
+[project]
+name = "week03"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "jupyter",
+    "llama-index",
+    "llama-index-llms-openai-like",
+    "llama-index-llms-dashscope",
+    "llama-index-embeddings-dashscope",
+    "llama-index-readers-smart-pdf-loader",
+    "llmsherpa",
+    "numpy",
+    "ipywidgets",
+    "dashscope",
+	"python-dotenv",
+	"neo4j",
+	"neo4j-graphrag",
+	"langchain-community",
+	"datasets",
+	"ragas",
+	"llama-index-vector-stores-elasticsearch",
+]

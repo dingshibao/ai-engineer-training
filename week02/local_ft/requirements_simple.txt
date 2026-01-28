@@ -1,0 +1,18 @@
+# 核心依赖
+gradio==4.32.0
+fastapi==0.112.0
+uvicorn==0.30.6
+
+# 微调相关
+ms-swift
+
+# 数据处理
+numpy==1.24.3
+matplotlib==3.9.3
+
+# 系统监控
+psutil==5.9.0
+
+# 数据格式支持
+simplejson==3.19.3
+pydantic==2.10.6

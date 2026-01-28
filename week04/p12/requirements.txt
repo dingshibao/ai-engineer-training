@@ -1,0 +1,28 @@
+# vLLM 自定义封装器依赖包
+
+# 核心依赖
+langchain-core>=0.3.0
+langchain>=0.3.0
+vllm>=0.6.0
+
+# 数据处理
+pydantic>=2.0.0
+typing-extensions>=4.0.0
+
+# 异步支持
+asyncio
+aiohttp>=3.8.0
+
+# 工具库
+numpy>=1.21.0
+torch>=2.0.0
+
+# 可选依赖 (用于特定功能)
+# transformers>=4.30.0  # 如果需要使用 HuggingFace 模型
+# accelerate>=0.20.0    # 如果需要模型加速
+# bitsandbytes>=0.39.0  # 如果需要量化支持
+
+# 开发依赖 (可选)
+# pytest>=7.0.0        # 用于测试
+# black>=23.0.0         # 代码格式化
+# flake8>=6.0.0         # 代码检查

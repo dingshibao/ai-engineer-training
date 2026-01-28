@@ -1,0 +1,21 @@
+[project]
+name = "week05"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "ipykernel",
+    "autogen-agentchat",
+    "autogen-ext[openai]",
+    "crewai",
+    "langchain",
+    "langchain-community",
+    "langchain-mcp-adapters",
+    "langchain-google-genai",
+    "langchain-openai",
+    "fastapi-mcp",
+    "langgraph",
+    "tavily-python",
+    "a2a-sdk",
+]

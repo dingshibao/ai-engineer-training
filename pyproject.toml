@@ -1,0 +1,14 @@
+[project]
+name = "ai-engineer-training"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "huggingface>=0.0.1",
+    "llama-index>=0.14.13",
+    "llama-index-core>=0.14.13",
+    "llama-index-llms-openai-like>=0.5.3",
+    "llama-index-vector-stores-milvus>=0.9.6",
+    "nest-asyncio>=1.6.0",
+]
