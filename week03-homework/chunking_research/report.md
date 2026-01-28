@@ -22,11 +22,12 @@
 
 ## 报告结论
 - 问题1：哪些参数显著影响效果？为什么？
-回答1：分块阶段的chunk_size、检索阶段的similarity_top_k以及prompt显著影响效果；分块阶段的chunk_overlap有一定影响，能够保持前后文本块语义的连续性，但设置不当会造成冗余。
+  - 分块阶段的chunk_size、检索阶段的similarity_top_k以及prompt显著影响效果；分块阶段的chunk_overlap有一定影响，能够保持前后文本块语义的连续性，但设置不当会造成冗余。
 
 - 问题2：chunk_overlap 过大或过小的利弊？
-回答2：chunk_overlap过大能够保持前后文本框语义的连续性，但可能存在冗余现象以及重叠部分的句子完整性可能会被破坏。chunk_overlap过小可以降低文本框的冗余度，但可能无法保证语义的连续性。
+  - chunk_overlap过大能够保持前后文本框语义的连续性，但可能存在冗余现象以及重叠部分的句子完整性可能会被破坏。
+  - chunk_overlap过小可以降低文本框的冗余度，但可能无法保证语义的连续性。
 
 - 问题3：如何在“精确检索”与“上下文丰富性”之间权衡
-1.分块阶段设置合适的chunk_size和chunk_overlap
-2.检索阶段检索策略适当调整，比如similarity_top_k参数设置、
+  - 分块阶段设置合适的chunk_size和chunk_overlap
+  - 检索阶段检索策略适当调整，比如similarity_top_k参数设置
