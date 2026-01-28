@@ -14,4 +14,12 @@ dependencies = [
     "langchain-community>=0.3.29",
     "python-dotenv",
     "nest-asyncio>=1.6.0",
+    "paddlepaddle>=2.6.0,<2.7.0",
+    "paddleocr>=2.7.0,<3.0.0",
+    # PaddleOCR 2.x 会导入 albumentations；2.x 版本的 albumentations 会在导入时强依赖 torch
+    # 在 Windows 上若 torch DLL 依赖不齐会触发 WinError 127，因此这里锁定到 1.x 以避免导入 torch
+    "albumentations<2",
+    "opencv-python>=4.5.0",
+    "active>=0.0.5a0",
+    "torch>=2.10.0",
 ]

@@ -11,4 +11,6 @@ dependencies = [
     "llama-index-llms-openai-like>=0.5.3",
     "llama-index-vector-stores-milvus>=0.9.6",
     "nest-asyncio>=1.6.0",
+    "paddleocr>=3.3.3",
+    "paddlepaddle>=3.3.0",
 ]
