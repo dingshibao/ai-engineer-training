@@ -61,6 +61,11 @@ local_settings.py
 db.sqlite3
 db.sqlite3-journal
 
+# LangGraph checkpoint & execution log (week05-homework)
+checkpoints.sqlite
+execution_log.json
+.mcp_port
+
 # Flask stuff:
 instance/
 .webassets-cache
