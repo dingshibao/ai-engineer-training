@@ -5,6 +5,7 @@ from langchain_mcp_adapters.client import MultiServerMCPClient
 from langchain_mcp_adapters.tools import load_mcp_tools
 from article_graph import build_graph
 from execute_log import dump_execution_log
+from langgraph.checkpoint.memory import MemorySaver
 
 EXECUTION_LOG_FILE = "execution_log.json"
 
